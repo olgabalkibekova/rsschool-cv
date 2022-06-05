@@ -16,7 +16,7 @@ I am currently working as a tester. I have great experience in testing both web,
 I decided to move on to a new stage of my professional growth - to become a front-end developer.
 
 By nature, I like to draw with paints, so I decided why not draw with code :)
-## Skills and Proficiency:
+## Hard skills:
 1. HTML5, CSS3
 2. JavaScript Basics
 3. Git, GitHub
